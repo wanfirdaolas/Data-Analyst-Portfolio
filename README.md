@@ -1,2 +1,2 @@
 # Data-Analyst-Projects
-My projects about data
+This is my portfolio of data analysis projects
